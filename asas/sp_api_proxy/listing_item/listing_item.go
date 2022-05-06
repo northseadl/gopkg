@@ -3,7 +3,7 @@ package listing_item
 import (
 	"errors"
 	"fmt"
-	sp_api_proxy "gopkg/asas/sp-api-proxy"
+	"github.com/northseadl/gopkg/asas/sp_api_proxy"
 	"io"
 	"net/http"
 	"net/url"
