@@ -1,4 +1,4 @@
-module gopkg
+module github.com/northseadl/gopkg
 
 go 1.18
 
