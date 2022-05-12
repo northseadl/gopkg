@@ -1,4 +1,4 @@
-package data
+package gdata
 
 import (
 	"gorm.io/gorm"

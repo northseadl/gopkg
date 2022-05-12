@@ -1,4 +1,4 @@
-package datatypes
+package gdatatypes
 
 import (
 	"database/sql/driver"
