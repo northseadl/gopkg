@@ -1,6 +1,6 @@
 package iufunc
 
-func DoOrElse(condition bool, okValue interface{}, elseValue interface{}) interface{} {
+func OkOrElse(condition bool, okValue interface{}, elseValue interface{}) interface{} {
 	if condition {
 		return okValue
 	} else {
